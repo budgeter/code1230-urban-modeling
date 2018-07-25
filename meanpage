@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+
+<title>My first website</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+
+
+
+<body>
+ <div class="topnav" id="myTopnav">
+ <a href="index.html">Home</a>
+ <a href="page1.html">page1</a>
+ <a href="page2.html">page2</a>
+
+
+
+
+<h1>This is a website</h1>
+
+
+
+<p>paragraph text here<br><br>
+
+this is a new line
+</p>
+
+
+
+<img src="https://assets.sennheiser.com/img/14406/x1_desktop_Sennheiser_Headphones_HD_820_4.jpg" alt="image missing!" style="width:25%" />
+
+
+
+<footer> 
+
+<a href="https://github.com/madeleinejohanson"> your footer text here</a>
+
+</footer>
+
+
+
+</body>
+
+
+
+</html>
